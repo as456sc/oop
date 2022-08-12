@@ -23,12 +23,13 @@ class Mentor:
             return 'Ошибка'
 
 class Lecture(Mentor):
+   pass 
 
 
 
 class Reviewer(Mentor):
-
-
+    pass
+ 
 
  
 best_student = Student('Ruoy', 'Eman', 'your_gender')
